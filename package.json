@@ -12,6 +12,7 @@
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.1",
     "@sugarat/theme": "^0.3.6",
+    "@types/node": "^20.14.0",
     "element-plus": "^2.7.2",
     "vue": "3.4.26"
   },
